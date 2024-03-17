@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruslan+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@0;1&family=Ojuju:wght@200..800&display=swap');
+
+body {
+    background-image: url('https://xn--80aiqmelqc4c.xn--p1ai/media/images/georg-lenta1-1728x800-c_yoLdg3H.original.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+}
+.logo {
+    background-image: url('https://25sch.ru/images/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/IMG_0847.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    border-radius: 30px;
+    /* size */
+    padding: 225px;
+}
+/* center */
+.center {
+    text-align: center;
+}
+.centerOther {
+    display: flex;
+    justify-content: center;
+}
+/* color */
+.color {
+    color:cadetblue;
+}
+/*more*/
+.noMarPad {
+    margin: 0px;
+    padding: 0px;
+}
+.bor15 {
+    border-radius: 15px;
+}
+.textform1 {
+    font-family: "Ruslan Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+.textform2 {
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.textform3 {
+    font-family: "Alumni Sans Inline One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/*more*/
+.noDec {
+    text-decoration: none;
+    color: black;
+}
+.size {
+    font-size: 50px;
+}
+.convert {
+    margin: 5px;
+    padding: 48px 12px;
+    width: 250px; 
+    height: 230px;
+    border-radius: 30px;
+    flex: 50%;
+}
+.moreBut {
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.moreBut:hover {
+    background-color:lightcyan;
+}
+.img1 {
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+.converts {
+    padding: 10px 300px;
+    display: flex;
+    justify-content: center;
+}
+#foot {
+    position: relative;
+    top: 100px;
+    background-color:aqua;
+    display: flex;
+}
+.footIt {
+    margin: 10px 10px 0px 205px;
+}
+.singBut {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    width: 150px;
+    height: 30px;
+}
+.convertHov:hover {
+    position: relative;
+    bottom: 30px;
+}
