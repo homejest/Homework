@@ -105,7 +105,3 @@ body {
     width: 150px;
     height: 30px;
 }
-.convertHov:hover {
-    position: relative;
-    bottom: 30px;
-}

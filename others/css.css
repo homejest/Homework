@@ -1,0 +1,9 @@
+.center {
+    text-align: center;
+}
+.carousele{
+    margin: 10px;
+}
+.carousele div img{
+    width: 50%
+}
